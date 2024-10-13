@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RoshanKumar9421</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    
+    <div class="portfoloi">
+
+        <h1> welcome to Roshan Kumar Portfolio </h1>
+    <br>
+
+    <p> Hey my self Roshan Kumar pursuing Computer Science and Engineering from Asansol Engineering College </p>
+
+    
+    
+    <a href="https://github.com/RoshanKumar9421"> 
+        <i class="fa-brands fa-github"></i>
+        
+    </a>
+    <br>
+
+    <a href="https://www.linkedin.com/in/roshankumaryadav-/"> 
+        <i class="fa-brands fa-linkedin"></i>
+    </a>
+    <br>
+     
+    <a href="https://x.com/Roshanyadav2456"> 
+        <i class="fa-brands fa-x-twitter"></i>
+    </a>
+
+    </div>
+    
+    <style>
+
+        div{
+            background-color: black;
+          
+
+        
+        }
+        
+
+        p{
+            color: skyblue;
+        }
+
+        h1{
+            color: bisque;
+        }
+
+        a{
+            color: white;
+        }
+
+        :left
+
+    </style>
+
+
+</body>
+</html>
